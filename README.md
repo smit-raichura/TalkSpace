@@ -83,11 +83,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request -->
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. 
-<!-- See `LICENSE.txt` for more information. -->
-<!-- Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name) -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
